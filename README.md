@@ -6,6 +6,7 @@
 
 ### 程式碼
 - http://rpubs.com/ywchiu/Demo20170116
+- http://rpubs.com/ywchiu/Demo20170117
 
 ### R 
 - https://cran.r-project.org/bin/windows/base/
